@@ -9,7 +9,7 @@ Nothing special — just a terminal command that prints a snail ASCII art, a sto
 Just paste this into your terminal:
 
 ```
-sudo curl -sSL https://raw.githubusercontent.com/Cynarokss/s-n-a-i-l.../main/snail.py -o /usr/local/bin/snail && sudo chmod +x /usr/local/bin/snail
+sudo curl -sSL https://raw.githubusercontent.com/Cynarokss/s-n-a-i-l/main/snail.py -o /usr/local/bin/snail && sudo chmod +x /usr/local/bin/snail
 ```
 
 ## Uninstallation
@@ -44,7 +44,7 @@ Nada interesante, solamente un comando en la terminal que imprime un ASCII de Ca
 Simplemente pon esto en la terminal:
 
 ```
-sudo curl -sSL https://raw.githubusercontent.com/Cynarokss/s-n-a-i-l.../main/snail.py -o /usr/local/bin/snail && sudo chmod +x /usr/local/bin/snail
+sudo curl -sSL https://raw.githubusercontent.com/Cynarokss/s-n-a-i-l/main/snail.py -o /usr/local/bin/snail && sudo chmod +x /usr/local/bin/snail
 ```
 
 ## Desinstalación
