@@ -4,6 +4,10 @@ Note: Is for Linux.
 
 Nothing special — just a terminal command that prints a snail ASCII art, a stopwatch, and... W O R D S . . .
 
+## Requirements 
+
+Python 3.13+
+
 ## Installation
 
 Just paste this into your terminal:
@@ -38,6 +42,10 @@ This has no real purpose, I uploaded it because I was bored. Have a good day, af
 Nota: Es para Linux.
 
 Nada interesante, solamente un comando en la terminal que imprime un ASCII de Caracol, un cronómetro, y...  P A L A B R A S. . .
+
+## Requisitos 
+
+Python 3.13+
 
 ## Instalación
 
