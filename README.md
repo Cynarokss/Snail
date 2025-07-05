@@ -30,7 +30,7 @@ snail
 
 ## The End
 
-This has no real purpose, but I uploaded it because I was bored. Have a good day, afternoon, or night.
+This has no real purpose, I uploaded it because I was bored. Have a good day, afternoon, or night.
 
 
 # SNAIL (Español)
@@ -65,4 +65,4 @@ snail
 
 ## Final
 
-Esto no tiene ninguna utilidad, pero lo subi porque estaba aburrido, buen dia, tarde o noche.
+Esto no tiene ninguna utilidad, lo subi porque estaba aburrido. Buen dia, tarde o noche.
