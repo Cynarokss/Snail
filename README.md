@@ -1,5 +1,7 @@
 # SNAIL (English)
 
+Note: Is for Linux.
+
 Nothing special — just a terminal command that prints a snail ASCII art, a stopwatch, and... W O R D S . . .
 
 ## Installation
@@ -32,6 +34,8 @@ This has no real purpose, but I uploaded it because I was bored. Have a good day
 
 
 # SNAIL (Español)
+
+Nota: Es para Linux.
 
 Nada interesante, solamente un comando en la terminal que imprime un ASCII de Caracol, un cronómetro, y...  P A L A B R A S. . .
 
